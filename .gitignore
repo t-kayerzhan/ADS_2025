@@ -1,0 +1,13 @@
+# Compiled C++ files
+*.out
+*.o
+*.exe
+a.out
+main
+
+# macOS
+.DS_Store
+
+# IDE settings
+.vscode/
+.vccode/
